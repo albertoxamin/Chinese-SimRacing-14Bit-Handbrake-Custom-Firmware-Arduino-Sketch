@@ -30,6 +30,10 @@ Then...
 1. Conntect your Handbrake and select the corresponding COM port of the device, which will be titled "Arduino Leonardo".
 1. Select "Arduino Leonardo" as the Board Type. 
 1. Compile and Deploy the Sketch. 
+1. Close arduino ide (IMPORTANT TO CLOSE SERIAL PORT), the open the html tool
+
+<img width="1455" height="972" alt="image" src="https://github.com/user-attachments/assets/d7da733d-f4fe-4774-89d2-76df01b6ee2f" />
+
 
 Done! 
 
